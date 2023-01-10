@@ -30,13 +30,6 @@ function highlightLink2() {
 
 
 
-
-
-
-
-
-
-
 // const countHyperlinsks = () => {
 //   let highlightColor = {[DocumentApp.Attribute.BACKGROUND_COLOR]:'#FFFF00'};
 //   let doc = DocumentApp.getActiveDocument();
